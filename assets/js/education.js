@@ -149,13 +149,13 @@ document.addEventListener("DOMContentLoaded", showCards1);
 
 const timeline = document.querySelector(".timeline-container");
 const timelinesection = [
-  {
-    heading: "University of Massachusetts at Amherst",
-    image: "assets/images/education-page/umass.png",
-    subheading: "Masters of Science, Computer Science, (2023-Present) ",
-    description:
-      "",
-  },
+  // {
+  //   heading: "University of Massachusetts at Amherst",
+  //   image: "assets/images/education-page/umass.png",
+  //   subheading: "Masters of Science, Computer Science, (2023-Present) ",
+  //   description:
+  //     "",
+  // },
   {
     heading: "Sri Sairam Engineering College",
     image: "assets/images/education-page/sec_logo.png",
@@ -167,9 +167,17 @@ const timelinesection = [
   {
     heading: "Sowdambikaa MBHSS, Thuraiyur",
     image: "assets/images/education-page/school.jpeg",
-    subheading: "Computer Science, (2017-2019) ",
+    subheading: "Computer Science, (2018-2019) ",
     description:
-      "<br><li>84.6% in HSC</li>&nbsp;&nbsp;&nbsp;<li>97% in SSLC</li><li>Vice Captain and Captain of School house 2016-2018</li><li>Merit Rank Holder from 2008-2018</li><li>Member of Student Council</li>",
+      "e<li>84.67% in HSC</li></li><li>Vice Captain and Captain of School house 2016-2018</li><li>Merit Rank Holder from 2008-2018</li><li>Member of Student Council</li>",
+  },
+
+  {
+    heading: "Jawahar MHSS, Neyveli",
+    image: "assets/images/education-page/school.jpeg",
+    subheading: "High School, (2016-2017) ",
+    description:
+      "<li>90.8% in SSLC</li><li>Vice Captain and Captain of School house 2016-2018</li><li>Merit Rank Holder from 2008-2018</li><li>Member of Student Council</li>",
   },
 ];
 
