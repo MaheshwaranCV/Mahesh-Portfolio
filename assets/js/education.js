@@ -157,19 +157,19 @@ const timelinesection = [
       "",
   },
   {
-    heading: "SSN College of Engineering",
-    image: "assets/images/education-page/ssn.png",
-    subheading: "Bachelors of Technology, Information Technology, (2018-2022) ",
+    heading: "Sri Sairam Engineering College",
+    image: "assets/images/education-page/sec_logo.png",
+    subheading: "Bachelor of Engineering, Mechanical Engineering, (2019-2023) ",
     description:
       "<li>CGPA: 8.9</li><li>Event Head of Procode(Intra department coding club)</li><li>Member of Coding Club, ML Tech Club</li>",
   },
 
   {
-    heading: "Sacred Heart MHSS Church Park",
+    heading: "Sowdambikaa MBHSS, Thuraiyur",
     image: "assets/images/education-page/school.jpeg",
-    subheading: "Computer Science, (2004-2018) ",
+    subheading: "Computer Science, (2017-2019) ",
     description:
-      "<br><li>93.75% in HSC</li>&nbsp;&nbsp;&nbsp;<li>97% in SSLC</li><li>Vice Captain and Captain of School house 2016-2018</li><li>Merit Rank Holder from 2008-2018</li><li>Member of Student Council</li>",
+      "<br><li>84.6% in HSC</li>&nbsp;&nbsp;&nbsp;<li>97% in SSLC</li><li>Vice Captain and Captain of School house 2016-2018</li><li>Merit Rank Holder from 2008-2018</li><li>Member of Student Council</li>",
   },
 ];
 
