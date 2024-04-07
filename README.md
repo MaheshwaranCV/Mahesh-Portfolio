@@ -1,14 +1,14 @@
-<h1> <a href="https://mahima1911.github.io/">My Portfolio Website </a> </h1>
+<h1> <a href="https://MaheshwaranCV.github.io/Portfolio">My Portfolio Website </a> </h1>
 
 <img
-              src="assets/images/pic1.png"
+              src="assets/images/Snapshot_1.png"
               alt=""
               height="300"
               width="550"
             />
           
 <img
-              src="assets/images/pic2.png"
+              src="assets/images/Snapshot_2.png"
               alt=""
               height="300"
               width="550"
