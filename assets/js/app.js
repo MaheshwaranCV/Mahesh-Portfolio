@@ -175,7 +175,7 @@ let footer = $(`
                           c117.9-117.9,82.9-167.7,82.9-167.7l-2.8-0.1C241.6,182.3,238.2,181.9,233.2,181.5z" />
     </svg>
     </a>
-    <a class="social-button github"  href="mailto:mahimasundarp@gmail.com" target="_blank" >
+    <a class="social-button github"  href="mailto:mahesh172002@gmail.com" target="_blank" >
     <!-- SVG code for Github icon -->
     <svg xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
