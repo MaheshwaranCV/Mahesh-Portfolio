@@ -28,7 +28,7 @@ const moocscards = [
   },
   {
     title: "Deep Learning Specialization",
-    cardImage: "assets/images/education-page/coursera.png",
+    cardImage: "assets/images/education-page/coursera2.jpg",
     moocLink:
       "https://www.coursera.org/account/accomplishments/specialization/certificate/W4DYPGVJJSYU",
   },
@@ -174,7 +174,7 @@ const timelinesection = [
 
   {
     heading: "Jawahar MHSS, Neyveli",
-    image: "assets/images/education-page/jawahar.png",
+    image: "assets/images/education-page/jawahar_logo.png",
     subheading: "High School, (2016-2017) ",
     description:
       "<br><li>90.8% in SSLC</li><li>Vice Captain and Captain of School house 2016-2018</li><li>Merit Rank Holder from 2008-2018</li><li>Member of Student Council</li>",
