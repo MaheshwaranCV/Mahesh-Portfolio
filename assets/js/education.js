@@ -161,7 +161,7 @@ const timelinesection = [
     image: "assets/images/education-page/sec_logo.png",
     subheading: "Bachelor of Engineering, Mechanical Engineering, (2019-2023) ",
     description:
-      "<li>CGPA: 8.9</li><li>Event Head of Procode(Intra department coding club)</li><li>Member of Coding Club, ML Tech Club</li>",
+      "<li>CGPA: 9.27</li><li>Event Head of Procode(Intra department coding club)</li><li>Member of Coding Club, ML Tech Club</li>",
   },
 
   {
