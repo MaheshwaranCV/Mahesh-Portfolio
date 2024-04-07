@@ -11,7 +11,7 @@ const moocscards = [
   },
   {
     title: "IBM Data Science Specialization",
-    cardImage: "assets/images/education-page/coursera3.png",
+    cardImage: "assets/images/education-page/coursera1.png",
     moocLink:
       "https://www.coursera.org/account/accomplishments/specialization/certificate/AT82J3B9HKKJ",
   },
@@ -28,7 +28,7 @@ const moocscards = [
   },
   {
     title: "Deep Learning Specialization",
-    cardImage: "assets/images/education-page/coursera3.png",
+    cardImage: "assets/images/education-page/coursera1.png",
     moocLink:
       "https://www.coursera.org/account/accomplishments/specialization/certificate/W4DYPGVJJSYU",
   },
