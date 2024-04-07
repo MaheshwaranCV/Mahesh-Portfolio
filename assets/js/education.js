@@ -166,7 +166,7 @@ const timelinesection = [
 
   {
     heading: "Sowdambikaa MBHSS, Thuraiyur",
-    image: "assets/images/education-page/school.jpeg",
+    image: "assets/images/education-page/sowdambikaa.png",
     subheading: "Higher Secondary, Computer Science, (2018-2019) ",
     description:
       "e<li>84.67% in HSC</li></li><li>Vice Captain and Captain of School house 2016-2018</li><li>Merit Rank Holder from 2008-2018</li><li>Member of Student Council</li>",
