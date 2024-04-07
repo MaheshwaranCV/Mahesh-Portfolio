@@ -174,7 +174,7 @@ const timelinesection = [
 
   {
     heading: "Jawahar MHSS, Neyveli",
-    image: "assets/images/education-page/school.jpeg",
+    image: "assets/images/education-page/jawahar.jpeg",
     subheading: "High School, (2016-2017) ",
     description:
       "<li>90.8% in SSLC</li><li>Vice Captain and Captain of School house 2016-2018</li><li>Merit Rank Holder from 2008-2018</li><li>Member of Student Council</li>",
